@@ -1,6 +1,6 @@
 ﻿namespace Assignment_04_OOP
 {
-    internal class Program
+    public class Program
     {
 
         //Task 3:Three ways to validate input: TryParse, Parse (try/catch), Convert (try/catch)

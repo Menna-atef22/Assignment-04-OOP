@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Assignment 04 OOP/Project1_Point3D.csproj" />
+  <Project Path="Project2_Maths/Project2_Maths.csproj" />
+  <Project Path="Project3_Duration/Project3_Duration.csproj" />
 </Solution>
